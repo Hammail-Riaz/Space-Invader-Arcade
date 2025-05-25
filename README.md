@@ -85,7 +85,7 @@ Visuals from the battlefield...
 
 ## 📄 License
 
-This game, "Space Invader – Hammail," is distributed under my custom licence see [Licence](Licence.txt).
+This game, "Space Invader – Hammail," is distributed under my custom licence see [License](License.txt).
 
 ---
 “Humanity’s future rests in your hands. Suit up, Captain Hamu — it’s time to fight back.”
