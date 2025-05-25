@@ -77,9 +77,9 @@ Visuals from the battlefield...
 
 ## 👑 Credits
 
-* **Game Developer:** [Your Name]
-* **Story Writer:** [Your Name / Team]
-* **Audio & Music:** [FreeSound / Custom Made / etc.]
+* **Game Developer:** Hammail-Riaz
+* **Story Writer:** Hammail-Riaz
+* **Audio & Music:** Hammail-Riaz
 
 “Humanity’s future rests in your hands. Suit up, Captain Hamu — it’s time to fight back.”
 
